@@ -1,0 +1,4 @@
+#Tue Jan 29 14:49:53 IST 2019
+base.0=D\:\\Github\\Google Samples\\android-Camera2Raw-v1\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

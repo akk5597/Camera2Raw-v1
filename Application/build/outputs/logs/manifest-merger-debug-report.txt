@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:18:1-46:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\e7a99f9a93c61f0759a824de075aeb65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f95d4a81c4c9e92a53245fc9d5b5dbf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7226316ca31031b8e7ecb7b186752ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f8eb9c1916203a4de5ac984432f6d202\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\0c34c47b7d5c1d3303c53892b9dac40d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5421b943096faab02476bef1219cdbe2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c9b00d6e5aa8a558829c0409151fa99b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e663c0e6d0683c0aae865e88e2702549\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d305c24a90a49d41a3c2c0e6eef5cfa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\971de319d50344262c3c28e6402fbfaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fc6946571f41a3d31e9e6258b298f980\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\50683ebdca8a56af531a1f2646e280b2\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:19:5-45
+	android:versionName
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:26:22-77
+uses-feature#android.hardware.camera
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:29:5-60
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:29:19-57
+uses-feature#android.hardware.camera.raw
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:30:5-64
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:30:19-61
+application
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:32:5-44:19
+	android:label
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:33:9-41
+	android:icon
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:32:18-44
+	android:theme
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:35:9-45
+activity#com.example.android.camera2raw.CameraActivity
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:37:9-43:20
+	android:label
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:38:19-51
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:37:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\e7a99f9a93c61f0759a824de075aeb65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\e7a99f9a93c61f0759a824de075aeb65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f95d4a81c4c9e92a53245fc9d5b5dbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f95d4a81c4c9e92a53245fc9d5b5dbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7226316ca31031b8e7ecb7b186752ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7226316ca31031b8e7ecb7b186752ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f8eb9c1916203a4de5ac984432f6d202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f8eb9c1916203a4de5ac984432f6d202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\0c34c47b7d5c1d3303c53892b9dac40d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\0c34c47b7d5c1d3303c53892b9dac40d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5421b943096faab02476bef1219cdbe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5421b943096faab02476bef1219cdbe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c9b00d6e5aa8a558829c0409151fa99b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c9b00d6e5aa8a558829c0409151fa99b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e663c0e6d0683c0aae865e88e2702549\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e663c0e6d0683c0aae865e88e2702549\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d305c24a90a49d41a3c2c0e6eef5cfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d305c24a90a49d41a3c2c0e6eef5cfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\971de319d50344262c3c28e6402fbfaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\971de319d50344262c3c28e6402fbfaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fc6946571f41a3d31e9e6258b298f980\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fc6946571f41a3d31e9e6258b298f980\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\50683ebdca8a56af531a1f2646e280b2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\akk55\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\50683ebdca8a56af531a1f2646e280b2\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\Google Samples\android-Camera2Raw-v1\Application\src\main\AndroidManifest.xml
